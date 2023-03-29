@@ -42,7 +42,6 @@ string[] GetArrayThreeElem(string[] array)
             ThreeArray[i] = elem;
             i++;
         }
-        if(i == count) break;
     }
     return ThreeArray;
 }
